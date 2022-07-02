@@ -11,7 +11,7 @@ textblob
 keras
 re
 pickle
-EmojiDict.p
+Emoji_Dict.p
 langid
 string
 nltk
