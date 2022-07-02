@@ -9,7 +9,6 @@ rq
 tensorflow
 textblob
 keras
-re
 pickle
 Emoji_Dict.p
 langid
