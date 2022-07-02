@@ -70,9 +70,11 @@ def clean(text):
 
 
 #WebApp Interface
-textbox = gr.Textbox(lines=5, placeholder="Human, input text data here.")
+textbox = gr.Textbox(
+                    lines=1,
+                     placeholder="Human, input text here")
 output = gr.Textbox()
 
-app = gr.Interface(fn=predict_new_data,inputs=[textbox],outputs=output)
+app = gr.Interface(title="Human, I can sense your emotion", fn=predict_new_data,inputs=[textbox],outputs=output)
 
 app.launch()
