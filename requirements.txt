@@ -9,8 +9,6 @@ rq
 tensorflow
 textblob
 keras
-pickle
-Emoji_Dict.p
 langid
 string
 nltk
