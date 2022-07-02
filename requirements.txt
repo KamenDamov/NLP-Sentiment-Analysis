@@ -1,3 +1,4 @@
+python3
 numpy
 pandas
 scikit-learn
@@ -10,6 +11,5 @@ tensorflow
 textblob
 keras
 langid
-string
 nltk
 gradio
