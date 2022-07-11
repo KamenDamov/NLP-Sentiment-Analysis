@@ -6,7 +6,7 @@ Flask
 argparse
 gunicorn
 rq
-tensorflow
+tensorflow-cpu
 textblob
 keras
 langid
