@@ -1,0 +1,29 @@
+[0709/165425.701:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165426.120:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165433.864:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165435.089:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165440.749:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165443.007:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165444.405:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165444.916:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165445.390:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165445.507:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165445.693:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165455.131:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165456.550:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165502.971:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165503.497:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165503.766:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165524.690:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165525.436:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165529.215:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165533.003:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165534.037:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165534.689:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165534.844:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165535.375:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165535.375:ERROR:crashpad_client_win.cc(808)] not connected
+[0709/165535.394:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165535.532:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165535.543:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
+[0709/165549.442:ERROR:registration_protocol_win.cc(102)] CreateFile: The system cannot find the file specified. (0x2)
