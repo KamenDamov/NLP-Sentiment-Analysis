@@ -1,0 +1,13 @@
+Further steps - emotion app: 
+UI: 
+- increase text input 
+- Add introductory message
+- Keep text after prediction is done
+
+Model: 
+Transformer models: 
+- fasttext
+- XML-Roberta
+
+- Balance corpus (train/test startified)
+- Check results with transformers 
